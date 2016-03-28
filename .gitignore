@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSharp/VilRan/bin/Debug
+/CSharp/.vs/VilRan/v14
+/CSharp/VilRan/obj/Debug
+/CSharp/VilRan.Tests/bin/Debug
+/CSharp/VilRan.Tests/obj/Debug
