@@ -48,6 +48,7 @@
     <Compile Include="Graphics\TextureUtility.cs" />
     <Compile Include="MapGeneration\DiamondSquare.cs" />
     <Compile Include="MapGeneration\ProceduralHeightmap.cs" />
+    <Compile Include="Mathematics\Formula.cs" />
     <Compile Include="Mathematics\MathUtility.cs" />
     <Compile Include="Mathematics\RandomExtensions.cs" />
     <Compile Include="Mathematics\RectangleExtensions.cs" />
